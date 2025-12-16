@@ -1,0 +1,11 @@
+torch
+torchvision
+matplotlib
+seaborn
+scikit-learn
+numpy
+Pillow
+fvcore
+tqdm
+datasets
+huggingface_hub
